@@ -1,1 +1,1 @@
-# procedural
+algorithmie

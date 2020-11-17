@@ -7,6 +7,8 @@ namespace jeux_chifumi
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Choisissez votre un nombre");
+
         }
     }
 }
